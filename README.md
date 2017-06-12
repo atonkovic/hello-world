@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi everyone. 
+
+I'm an adventurer and rebel at heart.
